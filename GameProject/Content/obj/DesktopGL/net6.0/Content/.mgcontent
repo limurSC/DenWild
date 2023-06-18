@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/../../../../../../Графика/ActiveSurrender.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/../../../../../../Графика/BuilderButton.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/../../../../../../Графика/DroneButton.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/../../../../../../Графика/Settings.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveAttackButton.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveBack.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveBackToGame.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveBaseButton.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveBindButton.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveBuildButton.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveBuilderButton.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveDroneButton.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveEducation.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveExit.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveExitToMenu.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveGameMenu.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveHoldButton.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveMinerButton.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveMoveButton.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveNext.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActivePlanetaA.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActivePlay.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveSetAside.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveSettings.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ActiveSurrender.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Back.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/BackToGame.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/BadUnitInMap.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ball.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/base 1.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/BuildBuilderButton.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/BuildDroneButton.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Builder.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/BuilderBullet.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/BuilderButton.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/BuilderInterface.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/BuildingInterface.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/BuildInterface.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Button.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/CameraFrame.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ChoiceWindow.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Click.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ClickСircle.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Crystal.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Drone.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/DroneBullet.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/DroneButton.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Education.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/EducationList1.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/EducationList10.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/EducationList2.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/EducationList3.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/EducationList4.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/EducationList5.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/EducationList6.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/EducationList7.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/EducationList8.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/EducationList9.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Exit.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/ExitToMenu.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/F1ActiveButton.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/F1Button.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/F2ActiveButton.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Hp.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Interface.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/LevelsMenu.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Lose.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/MainMenuBackground.jpg</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/MainMenuBackground2.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/MapBackground.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/MapBackground2.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Marine.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Miner.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Next.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/PlanetaA.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Play.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/selected.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Settings.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Surrender.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/UnitInMap.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Vurunduk.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/VurundukBullet.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/WarriorInterface.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/2d/Win.png</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/Audio/ClickSound.mp3</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/Audio/Lyudvig.mp3</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/Audio/Ringtone.mp3</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/Audio/Svyatoslav.mp3</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/Audio/Violin.mp3</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/Fonts/BindFont.spritefont</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/Fonts/EducationFont.spritefont</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/Fonts/GoldFont.spritefont</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/Fonts/MainMenuFont.spritefont</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/Fonts/MissionFont.spritefont</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/Fonts/PriceFont.spritefont</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/Fonts/SettingMenuFont.spritefont</File>
+    <File>C:/Users/Ilnur/Desktop/Игры/monogameGames/DenWild/DenWild/GameProject/Content/Fonts/TimeFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>2d/ActiveSurrender.png</File>
+    <File>2d/BuilderButton.png</File>
+    <File>2d/DroneButton.png</File>
+    <File>2d/Settings.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
